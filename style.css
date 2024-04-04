@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,113,1) 47%, rgba(0,212,255,1) 100%);
+    background-color: green
+    margin: 10;
+    padding: 5;
+    font-family: Arial, sans-serif; /* opcional: define a fonte do texto no corpo da página */
+}
+
+h1 {
+    color: rgb(255, 255, 255); /* opcional: define a cor do texto dentro do elemento h1 */
+}
+
+a
+{
+    color: blue;
+    text-decoration: none;
+    font-size: 30;
+}
+body {
+    background-color: #993399;
+    margin: 10;
+    padding: 5;
+    font-family: Arial, sans-serif;
+    color: white; /* Texto branco */
+}
